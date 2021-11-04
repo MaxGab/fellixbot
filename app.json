@@ -1,0 +1,6 @@
+{
+  "name": "FellixBot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/MaxGab/fellixbot",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
